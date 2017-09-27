@@ -1,6 +1,7 @@
-## What is this even?
-Just a list of recipes that's open to pull requests and has a history of revisions over time.
+# What is this even?
+Just a list of recipes and things that's open to pull requests and has a history of revisions over time.
 
+## Recipes
 - [:fire: sauce](firesauce.md) is a bare-bones chili sauce (:hot_pepper:)
 - [Skillet Penne w/ Spinach & Sausage](skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves:)
 - [SuperMac](mac-n-chz.md) is casserole-style mac (:milk_glass: :egg:)
@@ -11,6 +12,8 @@ Just a list of recipes that's open to pull requests and has a history of revisio
 - [Belgian Waffles](belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg:)
 - [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
+
+## Techniques/foundations
 - [Baking eggs](baked-eggs.md) is a technique for "boiling" a **lot** of eggs at once (:egg:)
 - [Pizza dough & Sauce](pizza.md) basic building blocks of pizza (:leaves: :milk_glass:)
 
