@@ -18,7 +18,7 @@
 Makes 48 cookies!
 
 # Method of Preparation
-1. Preheat oven to 350 F
+1. Preheat oven to 350°F
 2. Cream butter and brown sugar in a stand mixer until smooth
 3. Add egg, vanilla. Beat well
 4. Stir in dates and let sit 5 minutes to soften the dates

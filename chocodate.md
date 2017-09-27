@@ -19,7 +19,7 @@
 Makes eighteen 5 inch perfect crunchy-on-the-outside, chewy-on-the-inside cookies without nuts!
 
 # Preparation
-1. If your flour is frozen, preheat oven to 375 F
+1. If your flour is frozen, preheat oven to 375°F
 2. Sift dry ingredients together into a bowl.
 3. Cream butter and sugar in a stand mixer until very light, about 5 minutes. Add eggs, vanilla, and spices then mix well.
 4. Add dates, mix well, and let sit for a minute.
@@ -27,7 +27,7 @@ Makes eighteen 5 inch perfect crunchy-on-the-outside, chewy-on-the-inside cookie
 6. If the flour was cold, the dough should be fairly cool and you can go on to the next step.
    1. Otherwise, smooth dough and cover tightly with plastic wrap.
    2. Refrigerate 30 mins.
-   3. Preheat oven to 375 F half way through refrigeration
+   3. Preheat oven to 375°F half way through refrigeration
 7. Line baking sheet(s) with parchment paper
 8. Scoop big golfball size mounds of dough and sprinkle lightly with sea salt
    - An ice cream scoop works well here.

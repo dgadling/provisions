@@ -7,7 +7,7 @@ From Cook's Illustrated
 - ½ tsp instant yeast
 - ½ tsp honey
 - ½ tsp salt
-- 6.2 ounces (about 3/4 cup plus 1½ tsp, or 175 grams) water at 100 F to 105 F
+- 6.2 ounces (about 3/4 cup plus 1½ tsp, or 175 grams) water at 100°F to 105°F
 - ¼ cup olive oil
 
 ## Preparation - Day 1
@@ -36,6 +36,3 @@ From Cook's Illustrated
 3. Stir in tomatoes, bring to simmer and cook uncovered until the sauce thickens enough to coat a wooden spoon, about 15 minutes.
 
 :pizza: :cheese: :tomato:
-
-
-

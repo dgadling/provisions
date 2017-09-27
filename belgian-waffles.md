@@ -12,7 +12,7 @@
 Makes 8 waffles using the [Cuisinart Rotary Belgian Waffle Maker](https://www.amazon.com/Cuisinart-Rotary-Belgian-Waffle-Maker/dp/B0000VZZCM).
 
 # Method of Preparation
-1. Set oven to 200 F, optionally add serving plates.
+1. Set oven to 200°F, optionally add serving plates.
 2. Sift together flour, sugar, baking powder and salt.
 3. In a large bowl, beat the egg yolks, add the milk and then add the sifted dry ingredients.
 4. In a small bowl, beat the egg whites to a thick foam and fold them gently to the wet ingredients.
