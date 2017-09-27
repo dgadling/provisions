@@ -1,5 +1,5 @@
 # Ingredients
-- 230 g Fresno chillies (“red Jalapeño”) with stems trimmed but green tops left on
+- 230 g Fresno chiles (“red Jalapeño”) with stems trimmed but green tops left on
 - 150 g bell peppers (red/yellow) with stems trimmed flush to top of pepper
 - 35 g (one small head, ~ 10 cloves) garlic
 - 2 tablespoons brown sugar
@@ -10,7 +10,7 @@
 This made ~ 5 ounces when pushed through a fine mesh strainer.
 
 # Preparation
-1. Medium/rough cut chilies and peppers into ¼" or ½" pieces
+1. Medium/rough cut chiles and peppers into ¼" or ½" pieces
 2. Peel garlic cloves and cut in half
 3. Add everything to blender and blend until “smoothie” consistency
 4. Transfer to a glass jar
