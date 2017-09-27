@@ -1,6 +1,6 @@
-#Glazed Carrots
+# Glazed Carrots
 
-##Ingredients
+## Ingredients
 - 2 pounds carrots (whole or baby carrots)
 - 2 tablespoons unsalted butter
 - 1 cup orange juice
@@ -18,7 +18,7 @@
 - Wooden spoon
 - Instructions
 
-##Preparation
+## Preparation
 1. If using whole carrots, peel and remove both ends. Slice the carrots diagonally into 1/4-inch-thick discs, or cut into 2-inch-long batons or carrot sticks. Just remember to use the same cut for all the carrots, and keep them to about the same size so they cook evenly. Baby carrots can be cooked whole.
 2. Melt the butter in a large sauté pan over medium heat.
 3. When the butter is hot, add the carrots to the pan and season with 1/4 teaspoon of salt and a pinch of freshly ground black pepper. Cook, stirring occasionally, until the carrots start to soften, about 5 minutes for rounds and carrot sticks, and about 6 to 8 minutes for baby carrots.

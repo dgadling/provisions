@@ -6,6 +6,7 @@ Just a list of recipes that's open to pull requests and has a history of revisio
 - [SuperMac](mac-n-chz.md) is casserole-style mac (:milk_glass: :egg:)
 - [Swedish Pancakes](swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass:)
 - [Glazed Carrots](carrots.md) in which carrots are converted to junk food (:leaves:)
+- [Chocolate Date Cookies](chocodate.md) yum (:milk_glass: :egg:)
 
 
 ### Emoji key
