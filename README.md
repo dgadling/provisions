@@ -12,6 +12,7 @@ Just a list of recipes that's open to pull requests and has a history of revisio
 - [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
 - [Baking eggs](baked-eggs.md) is a technique for "boiling" a **lot** of eggs at once (:egg:)
+- [Pizza dough & Sauce](pizza.md) basic building blocks of pizza (:leaves: :milk_glass:)
 
 ### Emoji key
 - :hot_pepper: = spicy
