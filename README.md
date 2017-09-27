@@ -9,6 +9,7 @@ Just a list of recipes that's open to pull requests and has a history of revisio
 - [Chocolate Date Cookies](chocodate.md) yum (:milk_glass: :egg:)
 - [Lori Taylor's Chocolate Chippers](chippers.md) the richest cookies ever (:milk_glass: :egg:)
 - [Belgian Waffles](belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg:)
+- [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
 
 - [Baking eggs](baked-eggs.md) is a technique for "boiling" a **lot** of eggs at once (:egg:)
 
