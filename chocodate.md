@@ -34,6 +34,6 @@ Makes eighteen 5 inch perfect crunchy-on-the-outside, chewy-on-the-inside cookie
 9. Bake just until golden brown highlights appear, 15-16 minutes.
 10. Let cookies cool on baking sheet for 10 minutes, then transfer to wire rack
 11. Use two baking sheets, one in the oven and one cooling/being loaded with dough.
-   - **NOTE**: **DO NOT** put dough on a hot baking sheet.
+    - **NOTE**: **DO NOT** put dough on a hot baking sheet.
 
 :tada: :cookie: :tada: :cookie: :tada: :cookie:
