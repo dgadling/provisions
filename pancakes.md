@@ -1,4 +1,6 @@
 # Ingredients
+We usually *double* this recipe to make 12 pancakes
+
 - 1 cup flour
 - ¼ cup buttermilk powder
 - ¼ teaspoon salt
