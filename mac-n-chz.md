@@ -1,11 +1,11 @@
 # Ingredients
 - 8oz pasta shells or elbows
-- 4oz Colby cheese
-- 4oz extra sharp cheddar cheese
-- ¼ cup your favorite flavor-punch cheese (beemster vlaskaas, pepper jack, etc)
+- 16oz Colby cheese
+- 8oz sharp cheddar cheese
+- 4oz aged gouda
 - ½ cup nonfat milk
 - ¼ cup cream
-- 1 egg
+- 2 eggs
 - 4oz sour cream
 - ¾ cup panko or breadcrumbs
 - 3 tbs butter (melted/softened)
@@ -15,9 +15,10 @@
 - ⅛ tsp cayenne
 - ⅛ tsp chili powder
 - ¼ cup extra-sharp cheddar for crust
+- ¼ cup chopped bacon
 
 # Method of Preparation
-1. Boil water and cook noodles till done, drain.
+1. Boil water and cook noodles till done, drain. Do not rinse - stir cheese mixture into hot noodles.
 2. Stir together panko and butter and a little extra sharp cheddar cheese.
 3. Beat egg into milk and cream.
 4. Combine egg+milk mixture, cheeses, sour cream, chiles and spices in a bowl, then add pasta.
