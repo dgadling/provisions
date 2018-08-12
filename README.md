@@ -14,7 +14,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
 
 ## Blue Apron
-We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty fun. Each box came with a bunch of prepared ingredients and some recipe cards. We kept the recipe cards but don't really need them any longer. They get their own folder because they're not "our" recipes per se, or even anything we've necessarily made lately. If we end up making them in the future we'll make a text version in the main directory and update accordingly. In the mean time, the PDFs are available for reference.
+We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty fun. Each box came with a bunch of prepared ingredients and some recipe cards. We kept the recipe cards but don't really need them any longer. They get their own folder because they're not "our" recipes per se, or even anything we've necessarily made lately. If we end up making them in the future we'll make a text version in the main directory and update accordingly. In the mean time, [the PDFs](blue-apron/) are available for reference.
 
 ## Techniques/foundations
 - [Baking eggs](baked-eggs.md) is a technique for "boiling" a **lot** of eggs at once (:egg:)
