@@ -23,12 +23,12 @@ Rub
 Preparation
 ===========
 1. Start by rinsing your ribs under cold water and patting dry with a paper towel. Trim down any excess fat and remove the thin membrane on the back of the ribs.
-2. Season liberally with the "secret" sweet rub and prepare your grill for indirect grilling.
-  - (Optional) coat with plain yellow mustard to hold the rub
-  - The target temperature on your grill is 225 degrees F. Use fruit woods like apple, peach, cherry, or hardwoods like hickory or oak.
-3. In a small saucepan combine the butter and apple cider. Place on your grill alongside the ribs.
-4. Close the lid and cook for an hour and a half without opening the lid.
-5. Baste liberally with the apple cider mixture then close the lid.
-6. Wait 1 hour then baste again. Base a total of 4 times -- it'll be 5½ hours of cooking when you're done with this part.
-7. (Optional) Coat the ribs with desired BBQ sauce and return to the grill for an additional 30 minutes to set your sauce.
-8. Remove from heat, wrap in foil and allow the ribs to rest for 10 minutes before slicing and serving.
+2. (Optional) coat with plain yellow mustard for better rub adhesion.
+3. Season liberally with the "secret" sweet rub and prepare your grill for indirect grilling.
+4. Get the grill/smoker working towards 225 degrees F. Use fruit woods like apple, peach, cherry, or hardwoods like hickory or oak.
+5. In a small saucepan combine the butter and apple cider. Place on your grill alongside the ribs.
+6. Close the lid and cook for an hour and a half without opening the lid.
+7. Baste liberally with the apple cider mixture then close the lid.
+8. Wait 1 hour then baste again. Base a total of 4 times -- it'll be 5½ hours of cooking when you're done with this part.
+9. (Optional) Coat the ribs with desired BBQ sauce and return to the grill for an additional 30 minutes to set your sauce.
+10. Remove from heat, wrap in foil and allow the ribs to rest for 10 minutes before slicing and serving.
