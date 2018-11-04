@@ -13,6 +13,10 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
 
+## Smoked deliciousness
+- [Low & Slow smoked ribs](low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
+- [Smoked Mac & Cheese](smoked-mac-cheeze.md) if you've already got the smoker going... (:pig: :milk_glass:)
+
 ## Blue Apron
 We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty fun. Each box came with a bunch of prepared ingredients and some recipe cards. We kept the recipe cards but don't really need them any longer. They get their own folder because they're not "our" recipes per se, or even anything we've necessarily made lately. If we end up making them in the future we'll make a text version in the main directory and update accordingly. In the mean time, [the PDFs](blue-apron/) are available for reference.
 
