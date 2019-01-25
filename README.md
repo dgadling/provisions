@@ -12,6 +12,8 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Belgian Waffles](belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg:)
 - [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
+- [Cyclone Chili](cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
+- [Jalapeno Cornbread](jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: : gg: :hot_pepper:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
@@ -28,6 +30,7 @@ We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty
 - :hot_pepper: = spicy
 - :pig: = contains pork
 - :chicken: = contains poultry
+- :cow: = contains beef
 - :milk_glass: = contains dairy
 - :leaves: = contains some kind of vegetable
 - :egg: = obvious
