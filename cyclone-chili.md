@@ -1,4 +1,5 @@
 (NOTE: This is taken from a Marlboro cookbook)
+Serves 4-5. Generally a good idea to double for crowds or more leftovers.
 
 Ingredients
 ===========
@@ -30,7 +31,7 @@ Tools
 
 Directions
 ==========
-1. Brown the beef in hot oil
+1. Brown the beef in hot oil - if excessive liquid collects in the bottom of the pan, try to keep the liquid away from the browning beef while it reduces.
 2. Add Jalapenos, onion, garlic, and green pepper
 3. Add tomatillos
 4. Add tomato sauce, beef broth, cilantro, paprika, cumin, and seasonings
