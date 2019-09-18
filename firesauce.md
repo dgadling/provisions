@@ -39,3 +39,37 @@ This made ~ 5 ounces when pushed through a fine mesh strainer.
 8. Bottle as appropriate and stick in the refrigerator, you’re done!
 
 :tada: :fire: :tada: :fire: :tada: :fire:
+
+# Variations
+All of these variants went through _roughly_ the above process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
+
+| Name | Peppers | Garlic | Sugar | Salt | Water |
+| ---- | ------- | ------ | ----- | ---- | ----- |
+| Smoked Anaheim | Smoked anaheims | ??? | ??? | ??? | ??? |
+| Green 9.2 | 200g Jalapeño, 200g Havasu | 42g | 10g | 20g | 1C |
+| Orange 9.2 | 200g Fresno, 200g Havasu | 45g | 10g | 20g | 2C |
+| Red 9.9 | 400g Fresno | 26g | 10g | 30g | ½C |
+| White 9.10 | 475g Havasu | 0 | 20g | 20g | ½C |
+| Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
+| Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
+
+**🌶🌶🌶**
+- Jalapeño (generic)
+- [Havasu](https://bonnieplants.com/product/havasu-hot-pepper/)
+- [Fresno](https://bonnieplants.com/product/flaming-flare-fresno-chili-pepper/)
+- [Dragon Cayenne](https://bonnieplants.com/product/dragon-cayenne-pepper/)
+- [Garden](https://bonnieplants.com/product/garden-salsa-hot-pepper/)
+- [Cowhorn](https://bonnieplants.com/product/cowhorn-hot-pepper/)
+
+# Variation Results
+## Smoked Anaheim :frowning:
+- Fermentation time: Unrecorded
+- Finishing steps: as above
+- Yield: 2 cups
+- **NOTES**: Came out **super** bitter for some reason and **super** smoky. Nothing in finishing could save it so it got left in the fridge unfinished in hopes it would mellow. The current theory is that the amount of solids that ended up in the sauce is what doomed it.
+
+## Green 9.2 :relaxed:
+- Fermentation time: ~ 10 days
+- Finishing steps: Added ½C vinegar, very mild reduction, ½tsp [Xanthan Gum](https://www.bobsredmill.com/xanthan-gum.html) via WholeFoods
+- Yield: 2 cups
+- **NOTES**: Came out **great** but started separating after finishing. Didn't cook it down much because it had pretty good texture after straining. Added solids to thicken it but that started making it bitter so took the solids back out. Learned about Xanthan Gum from [this article](https://www.pepperscale.com/sauce-too-thin-how-to-thicken-hot-sauce/) -- may have used too much.
