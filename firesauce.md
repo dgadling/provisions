@@ -80,10 +80,10 @@ All of these variants went through _roughly_ the above process, for varying amou
 - Yield: 2 cups
 - **NOTES**: Came out **great**, shorter heat-reaction than the greena bove
 
-## White 9.10 :frowning
+## White 9.10 :frowning:
 - Lost due to mold during fermentation + not smelling like anything after the mold was removed
 
-## Red 9.9 :relaxed
+## Red 9.9 :relaxed:
 - Fermentation time: 12 days
 - Finishing steps: Added ⅛C apple cider vinegar, ½tsp xanthan gum
 - Yield: ~ 1.75 cups
