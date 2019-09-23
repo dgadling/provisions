@@ -50,8 +50,8 @@ All of these variants went through _roughly_ the above process, for varying amou
 | :heavy_check_mark: Orange 9.2 | 200g Fresno, 200g Havasu | 45g | 10g | 20g | 2C |
 | :heavy_check_mark: Red 9.9 | 400g Fresno | 26g | 10g | 30g | ½C |
 | ~~White 9.10~~ | ~~475g Havasu~~ | ~~0~~ | ~~20g~~ | ~~20g~~ | ~~½C~~ |
-| Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
-| Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
+| :heavy_check_mark: Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
+| :heavy_check_mark: Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
 
 **🌶🌶🌶**
 - Jalapeño (generic)
@@ -88,3 +88,15 @@ All of these variants went through _roughly_ the above process, for varying amou
 - Finishing steps: Added ⅛C apple cider vinegar, ½tsp xanthan gum
 - Yield: ~ 1.75 cups
 - **NOTES**: **NICE** and red, nice and spicy. Generally pretty good.
+
+## Orange 9.15 :neutral_face:
+- Fermentation time: 7 days
+- Finishing steps: Added ⅛C apple cider vinegar, ¼ + ⅛tsp xanthan gum
+- Yield: 2 cups
+- **NOTES**: Decent, not especially spicy by Dave's standards
+
+## Orange Dragon 9.15 :confused:
+- Fermentation time: 7 days
+- Finishing steps: Added ⅛C seasoned rice wine vinegar plus a bit more, ¼tsp xanthan gum
+- Yield: 2 cups + a little extra
+- **NOTES**: Slightly spicier than normal orange. Has some kind of funk in the beginning that's novel. Came out OK
