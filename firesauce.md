@@ -52,6 +52,9 @@ All of these variants went through _roughly_ the above process, for varying amou
 | ~~White 9.10~~ | ~~475g Havasu~~ | ~~0~~ | ~~20g~~ | ~~20g~~ | ~~½C~~ |
 | :heavy_check_mark: Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
 | :heavy_check_mark: Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
+| Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
+| Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
+| Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
 
 **🌶🌶🌶**
 - Jalapeño (generic)
