@@ -55,6 +55,10 @@ All of these variants went through _roughly_ the above process, for varying amou
 | Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
 | Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
 | Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
+| Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
+| Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
+| Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
+| Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
 
 **🌶🌶🌶**
 - Jalapeño (generic)
