@@ -59,6 +59,14 @@ All of these variants went through _roughly_ the above process, for varying amou
 | Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
 | Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
 | Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
+| Orange 9.25 | 316g Fresno, 313g Havasu | 76g | 15g | 24g | ½C |
+| Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
+| Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
+| Lemon Kingdom 9.25 | 390g Anaheim, 205g Garden Salsa | 20g | 15g | 22g | 1C |
+
+**NOTES**: Some sauces had extra stuff for the ferment:
+- Yuzu Garden 9.25 -- 10g yuzu extract, 9g ginger
+- Lemon Kingdom 9.25 -- 22g lemongrass, 20g ginger
 
 **🌶🌶🌶**
 - Jalapeño (generic)
