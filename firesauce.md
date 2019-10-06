@@ -57,12 +57,12 @@ All of these variants went through _roughly_ the above process, for varying amou
 | Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
 | Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
 | Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
-| Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
+| :heavy_check_mark: Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
 | Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
-| Orange 9.25 | 316g Fresno, 313g Havasu | 76g | 15g | 24g | ½C |
-| Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
-| Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
-| Lemon Kingdom 9.25 | 390g Anaheim, 205g Garden Salsa | 20g | 15g | 22g | 1C |
+| :heavy_check_mark: Orange 9.25 | 316g Fresno, 313g Havasu | 76g | 15g | 24g | ½C |
+| :heavy_check_mark: Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
+| :tada: Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
+| :x: Lemon Kingdom 9.25 | 390g Anaheim, 205g Garden Salsa | 20g | 15g | 22g | 1C |
 
 **NOTES**: Some sauces had extra stuff for the ferment:
 - Yuzu Garden 9.25 -- 10g yuzu extract, 9g ginger
@@ -127,3 +127,33 @@ All of these variants went through _roughly_ the above process, for varying amou
 - Finishing steps: Added ¼C white vinegar, ⅛tsp xanthan gum
 - Yield: 10 oz + a bit extra
 - **NOTES**: SUPER SPICY. Slightly bitter finish, so added more white vinegar which seemed to help. Went straight into 5oz bottles.
+
+## Orange 9.25 :relaxed:
+- Fermentation time: 11 days
+- Finishing steps: ⅛C white vinegar, ~ ⅛tsp xanthan gum
+- Yield: ~ 15 oz
+- **NOTES**: Standard orange, great sauce
+
+## Lemon Kingdom 9.25 :grimacing:
+- Fermentation time: 11 days
+- Finishing steps: None
+- Yield: N/A
+- **NOTES**: Not spicy, kind of bitter, nothing special compared to lemon grass by itself
+
+## Yuzu Garden 9.25 :heart_eyes:
+- Fermentation time: 11 days
+- Finishing steps: ⅛C white vinegar, ¼tsp xanthan gum
+- Yield: Slightly less than 15 oz
+- **NOTES**: AMAZING. Spicy, citrusy, tangy, "good grassy".
+
+## Fresno 9.25 :relaxed:
+- Fermentation time: 11 days
+- Finishing steps: ⅛C white vinegar, ¼tsp xanthan gum
+- Yield: 15 oz
+- **NOTES**: _Very_ strong chili flavor. Nice and spicy.
+
+## Hot Havasu 9.24 :relaxed:
+- Fermentation time: 12 days
+- Finishing steps: ⅛C white vinegar, ¼tsp xanthan gum
+- Yield: 15 oz
+- **NOTES**: **NOT SPICY** but still really nice. Very tangy.
