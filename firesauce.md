@@ -52,8 +52,8 @@ All of these variants went through _roughly_ the above process, for varying amou
 | ~~White 9.10~~ | ~~475g Havasu~~ | ~~0~~ | ~~20g~~ | ~~20g~~ | ~~½C~~ |
 | :heavy_check_mark: Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
 | :heavy_check_mark: Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
-| Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
-| Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
+| :heavy_check_mark: Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
+| :heavy_check_mark: Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
 | Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
 | Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
 | Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
@@ -115,3 +115,15 @@ All of these variants went through _roughly_ the above process, for varying amou
 - Finishing steps: Added ⅛C seasoned rice wine vinegar plus a bit more, ¼tsp xanthan gum
 - Yield: 2 cups + a little extra
 - **NOTES**: Slightly spicier than normal orange. Has some kind of funk in the beginning that's novel. Came out OK
+
+## Orange Helsing 9.23 :confused:
+- Fermentation time: ~ 9 days?
+- Finishing steps: Added ⅛C seasoned rice wine vinegar, ¼tsp xanthan gum
+- Yield: 2 Cups
+- **NOTES**: _SUPER_ garlicy and a little bitter. Seems OK but I'm not totally sure
+
+## Dragon 9.23 :confused:
+- Fermentation time: ~ 9 days?
+- Finishing steps: Added ¼C white vinegar, ⅛tsp xanthan gum
+- Yield: 10 oz + a bit extra
+- **NOTES**: SUPER SPICY. Slightly bitter finish, so added more white vinegar which seemed to help. Went straight into 5oz bottles.
