@@ -54,11 +54,11 @@ All of these variants went through _roughly_ the above process, for varying amou
 | :heavy_check_mark: Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
 | :heavy_check_mark: Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
 | :heavy_check_mark: Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
-| Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
-| Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
-| Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
+| :tada: Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
+| :x: Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
+| :x: Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
 | :heavy_check_mark: Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
-| Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
+| :heavy_check_mark: Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
 | :heavy_check_mark: Orange 9.25 | 316g Fresno, 313g Havasu | 76g | 15g | 24g | ½C |
 | :heavy_check_mark: Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
 | :tada: Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
@@ -157,3 +157,21 @@ All of these variants went through _roughly_ the above process, for varying amou
 - Finishing steps: ⅛C white vinegar, ¼tsp xanthan gum
 - Yield: 15 oz
 - **NOTES**: **NOT SPICY** but still really nice. Very tangy.
+
+## Fresno Horn 9.24 :heart_eyes:
+- Fermentation time: 12 days
+- Finishing steps: ⅛C white vinegar, ⅛tsp xanthan gum
+- Yield: 15 oz
+- **NOTES**: Very hot, very flavorful, _very good_.
+
+## Megaton Moo 9.23 :heart_eyes:
+- Fermentation time: 13 days
+- Finishing steps: ⅛C white vinegar, ⅛tsp xanthan gum
+- Yield: 10 oz
+- **NOTES**: Very hot, very tasty, really nice.
+
+## Angry/Therapy Mouse 9.24 :confused:
+- Fermentation time: 12 days
+- Finishing steps: Angry Mouse got ⅛C white vinegar. After combining they both got cooked down a bit more.
+- Yield: 32 oz
+- **NOTES**: Combined Angry & In Therapy Mouse after straining. Neither is hot but they have a ton of flavor. May combine with some cayenne sauce in the future or leave as a general cooking sauce. Not sure yet.
