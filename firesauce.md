@@ -63,6 +63,10 @@ All of these variants went through _roughly_ the above process, for varying amou
 | :heavy_check_mark: Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
 | :tada: Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
 | :x: Lemon Kingdom 9.25 | 390g Anaheim, 205g Garden Salsa | 20g | 15g | 22g | 1C |
+| Dragon 12.26 | 200g Dragon, 203g Fresno | 20g | 8g | 5g | ½C |
+| Green 12.26 | 285g misc, 93g Fresno, 30g Dragon | 28g | 11g | 12g | ½C |
+| Hab 12.26 | 175g habanero, 200g Havasu, 20g Dragon | 21g | 8g | 8g | ½C |
+| Orange 12.26 | 225g havasu, 471g Fresno | 26g | 11g | 11g | ½C |
 
 **NOTES**: Some sauces had extra stuff for the ferment:
 - Yuzu Garden 9.25 -- 10g yuzu extract, 9g ginger
