@@ -14,6 +14,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
 - [Cyclone Chili](cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
 - [Jalapeno Cornbread](jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: : gg: :hot_pepper:)
+- [Focaccia](focaccia.md) that is super easy and tasty (:bread:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
