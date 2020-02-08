@@ -3,8 +3,10 @@
 A really nice easy Focaccia.  It's basically [Babish's recipe](https://basicswithbabish.co/basicsepisodes/bread) halved and units changed to weight rather than volume.
 
 ## Equipment
-* 9x13" deep walled baking pan
+* 9x13" deep walled baking sheet
 * Stand mixer with dough hook
+* Large bowl
+* Rubber spatula
 
 ## Ingredients
 * 425g all purpose flour
@@ -23,7 +25,8 @@ A really nice easy Focaccia.  It's basically [Babish's recipe](https://basicswit
 5. Using a rubber spatula, fold the dough stuck to the edges onto itself.
 6. In an 9x13 rimmed baking sheet, add about ½ a cup of olive oil and spread out until pan is fully coated.
 7. Place the bread mixture onto the baking sheet and using the olive oil, fold the mixture onto itself a few times and then start to spread the dough across the surface of the pan. If the dough keeps springing back, place some olive oil on the bread and cover it with plastic wrap for 15 minutes. You may have to do it a few times, but it’ll eventually spread to the whole pan.
-8. Once the pan is filled out, hit it with some more oil, and then cover and let it ferment overnight in the fridge so for about 12 hours. If any bubbles form, just poke them with a knife, and using oiled fingers, pull the bread just off the edges.
+8. Once the pan is filled out, hit it with some more oil, and then cover and let it ferment overnight in the fridge (about 12 hours). If any bubbles form, just poke them with a knife, and using oiled fingers, pull the bread just off the edges.
 9. Coat bread in olive oil and let sit covered at room temperature for about an hour. Make dimples in the dough with your fingers.
-10. Preheat oven at 230°C (450°F) for 1 hour. Coat the dough one last time with olive oil and kosher salt and bake for about 30 minutes.
-11. Remove and place on a baking rack for about an hour and half to cool. Serve and enjoy!
+10. Place a rack at the bootom of the oven and preheat at 230°C (450°F) for 30 minutes to 1 hour.
+11. Coat the dough one last time with olive oil and kosher salt and bake for about 30 minutes.
+12. Remove and place on a baking rack for about an hour and half to cool. Serve and enjoy!
