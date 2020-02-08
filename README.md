@@ -3,17 +3,17 @@ Just a list of recipes and things that's open to pull requests and has a history
 
 ## Recipes
 - [:fire: sauce](firesauce.md) is a bare-bones chili sauce (:hot_pepper:)
-- [Skillet Penne w/ Spinach & Sausage](skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves:)
-- [SuperMac](mac-n-chz.md) is casserole-style mac (:milk_glass: :egg:)
-- [Swedish Pancakes](swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass:)
+- [Skillet Penne w/ Spinach & Sausage](skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves: :bread:)
+- [SuperMac](mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
+- [Swedish Pancakes](swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
 - [Glazed Carrots](carrots.md) in which carrots are converted to junk food (:leaves:)
-- [Chocolate Date Cookies](chocodate.md) yum (:milk_glass: :egg:)
-- [Lori Taylor's Chocolate Chippers](chippers.md) the richest cookies ever (:milk_glass: :egg:)
-- [Belgian Waffles](belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg:)
-- [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg:)
-- [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg:)
+- [Chocolate Date Cookies](chocodate.md) yum (:milk_glass: :egg: :bread:)
+- [Lori Taylor's Chocolate Chippers](chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
+- [Belgian Waffles](belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
+- [Traditional Pancakes](pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
+- [Ginger Scones](gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg: :bread:)
 - [Cyclone Chili](cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
-- [Jalapeno Cornbread](jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: : gg: :hot_pepper:)
+- [Jalapeno Cornbread](jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Focaccia](focaccia.md) that is super easy and tasty (:bread:)
 
 ## Smoked deliciousness
@@ -25,7 +25,7 @@ We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty
 
 ## Techniques/foundations
 - [Baking eggs](baked-eggs.md) is a technique for "boiling" a **lot** of eggs at once (:egg:)
-- [Pizza dough & Sauce](pizza.md) basic building blocks of pizza (:leaves: :milk_glass:)
+- [Pizza dough & Sauce](pizza.md) basic building blocks of pizza (:leaves: :milk_glass: :bread:)
 
 ### Emoji key
 - :hot_pepper: = spicy
@@ -35,3 +35,5 @@ We used to subscribe to [Blue Apron](https://www.blueapron.com) which was pretty
 - :milk_glass: = contains dairy
 - :leaves: = contains some kind of vegetable
 - :egg: = obvious
+- :bread: = gluten
+- :peanuts: = nuts of some sort
