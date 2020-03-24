@@ -4,6 +4,7 @@
 - 3 garlic cloves, minced
 - 2¼ cups low-sodium chicken broth (or just 1 can)
 - 1¾ cups water (or 2⅔ cups if using one can broth)
+  - original recipe says 2¼ cups
 - 8 ounces (2½ cups) penne
 - ½ cup oil-packed sun-dried tomatoes, pre-cut if possible
 - one 6 ounce bag baby spinach
@@ -22,5 +23,7 @@
 7. Stir in entire bag of spinach, one handful at a time, and cook until wilted.
 8. Take off heat, stir in Parmesan and pine nuts
 9. Serve immediately! :tada::tada::tada:
+
+Makes 4 servings
 
 Originally found in: Cooks’ Illustrated, The Best 30-minute Recipe, page 142.
