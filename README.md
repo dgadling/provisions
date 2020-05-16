@@ -16,6 +16,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Jalapeno Cornbread](jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Focaccia](focaccia.md) that is super easy and tasty (:bread:)
 - [Flour Tortillas](flour-tortillas.md) are quick, easy, and better than anything from a grocery store (:bread:)
+- [Cinnamon-Cumin Salad Dressing](cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
