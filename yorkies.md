@@ -18,23 +18,41 @@ The BBC has more [good references](https://www.bbcgoodfood.com/howto/guide/top-t
 * Try to get a bigger "drop" in the middle by opening the oven 5-10 minutes before they're done
 * Does sifting the flour make a difference? How about a blender versus whisking?
 * Vary fat load - is more better?
+  * Too much ends up "weird" with fat pooling in the middle
 * Try to add a dollop of jam after being added to pan and make breakfast yorkies.
+  * This didn't work at all. The jam dripped through or exploded. Hard cleanup.
 * Make a giant one in a cast-iron.
-* Vary flour / egg ratio, add bakers percentages
+  * This worked really well. The amount of fat to use, or even how much batter to use is `¯\_(ツ)_/¯`
 
 ## Ingredients
 
-* 4 eggs
-* 200ml milk
-* 140 grams cups all-purpose flour
-* 1/4 teaspoon salt
-* Lard or Duck Fat or oil
+> **_NOTE:_** This is designed to be scaled using eggs. 1 egg is ~ 1.25 yorkies, so 5 eggs gets you about 6 muffin tin sized yorkies
+
+> **_NOTE:_** Flour ratio is WIP. I've seen anywhere from ~28-35 grams per egg. 28 was super "eggy", 35 was more like a popover 
+
+### Batch of 6
+
+| Measure       | Grams | Ingredients             | %    |
+| ------------- | ----: | ----------------------- | ---- |
+| 4 Large       |   ~57 | Eggs                    | 100  |
+| 400 ML        |  ~100 | whole or low-fat milk   | 175  |
+| 1 cup         |    30 | All Purpose Flour       | 53   |
+| 3 Tablespoons |       | Lard \| Duck Fat \| Oil |      |
+
+### Reference for Scaling
+
+| Measure        | Grams | Ingredients             | %    |
+| -------------- | ----: | ----------------------- | ---- |
+| 1 Large        |   ~57 | Eggs                    | 100  |
+| 100 ML         |  ~100 | whole or low-fat milk   | 175  |
+| 1/4 cup        |    30 | All Purpose Flour       | 53   |
+| 1/2 Tablespoon |       | Lard \| Duck Fat \| Oil |      |
 
 ## Preparation
 
 ### Batter
 
-> The batter can be prepared the night before
+> The batter _should_ be prepared the night before
 
 1. Whisk the eggs and milk until combined
 2. Add the flour and mix again. This should end up as a runny batter. 
@@ -50,3 +68,12 @@ The BBC has more [good references](https://www.bbcgoodfood.com/howto/guide/top-t
 4. Give the batter a good stir before pouring
 5. Fill each tin to 3/4 full
 6. Bake 15-20 minutes until golden brown
+
+
+
+# Cooking Log
+
+**2020-05-??:** Attempted "breakfast" yorkies with jam. One came out nicely, the rest leaked into the tin. Wasn't fun to clean.
+
+**2020-05-17:** 5 eggs, 49%fl / 28gr per yorkie. Cooked in a cast iron pan, result was good. Didn't measure fat, but used _a lot_, which ended up flodding the middle. Was very eggy, Ox liked it that way. 
+
