@@ -17,6 +17,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Focaccia](recipes/focaccia.md) that is super easy and tasty (:bread:)
 - [Flour Tortillas](recipes/flour-tortillas.md) are quick, easy, and better than anything from a grocery store (:bread:)
 - [Cinnamon-Cumin Salad Dressing](recipes/cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
+- [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](recipes/low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
