@@ -4,8 +4,8 @@
 
 **meat**
 
-* 1 1/4 lb - pork
-* 1 1/4 lb - smoked sausage
+* 1.25 lb - pork
+* 1.25 lb - smoked sausage
 
 **veggies**
 
