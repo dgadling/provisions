@@ -2,22 +2,22 @@
 Just a list of recipes and things that's open to pull requests and has a history of revisions over time.
 
 ## Recipes
+- [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
+- [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
+- [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
+- [Cinnamon-Cumin Salad Dressing](recipes/cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
+- [Cyclone Chili](recipes/cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
 - [:fire: sauce](recipes/firesauce.md) is a bare-bones chili sauce (:hot_pepper:)
+- [Flour Tortillas](recipes/flour-tortillas.md) are quick, easy, and better than anything from a grocery store (:bread:)
+- [Focaccia](recipes/focaccia.md) that is super easy and tasty (:bread:)
+- [Ginger Scones](recipes/gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg: :bread:)
+- [Glazed Carrots](recipes/carrots.md) in which carrots are converted to junk food (:leaves:)
+- [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
+- [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
 - [Skillet Penne w/ Spinach & Sausage](recipes/skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves: :bread:)
 - [SuperMac](recipes/mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
 - [Swedish Pancakes](recipes/swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
-- [Glazed Carrots](recipes/carrots.md) in which carrots are converted to junk food (:leaves:)
-- [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
-- [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
-- [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Traditional Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
-- [Ginger Scones](recipes/gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg: :bread:)
-- [Cyclone Chili](recipes/cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
-- [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
-- [Focaccia](recipes/focaccia.md) that is super easy and tasty (:bread:)
-- [Flour Tortillas](recipes/flour-tortillas.md) are quick, easy, and better than anything from a grocery store (:bread:)
-- [Cinnamon-Cumin Salad Dressing](recipes/cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
-- [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](recipes/low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
