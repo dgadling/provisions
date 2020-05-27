@@ -5,7 +5,7 @@ After that didn't work out I watched [Tia Mari](https://www.youtube.com/watch?v=
 - 345 g all purpose flour
 - 3 g salt (1%)
 - 69 g lard (20%)
-- ¾ cup (177 mL) 70 °C (158 °F) water (51%)
+- 1 cup (236 mL) 70 °C (158 °F) water (68%)
 
 This makes **about 12** "soft taco" sized tortillas.
 
