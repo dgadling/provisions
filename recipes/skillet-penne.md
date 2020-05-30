@@ -1,6 +1,6 @@
 # Ingredients
 - 1 tablespoon olive oil
-- 1 pound spicy Italian sausage (see note in prep)
+- 1 pound spicy Italian sausage or turkey/chicken sausage (Caseless is OK)
 - 3 garlic cloves, minced
 - 2¼ cups low-sodium chicken broth (or just 1 can)
 - 1¾ cups water (or 2⅔ cups if using one can broth)
