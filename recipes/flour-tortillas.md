@@ -15,9 +15,12 @@ This makes **about 12** "soft taco" sized tortillas.
 2. Add the lard and cut in with your hand(s) until well mixed in
 3. Add the hot water and mix until it _just_ comes together. You should still have some flour chunks that aren't incorporated
 4. Knead until _just_ forms a smooth cohesive ball. This should take < 5 minutes.
-5. Set aside a small container of flour
-6. Squeeze out large golf balls for taco-sized tortillas and roll in your hands or on your table to smooth them out.
-7. Press each one into the flour, squashing a bit to make them flat, then put on a plate.
+5. Return to bowl, cover with film, and let sit for 10 minutes
+6. Set aside a small container of flour
+7. Squeeze out large golf balls for taco-sized tortillas and roll in your hands or on your table to smooth them out.
+8. Press each one into the flour, squashing a bit to make them flat, then put on a plate.
+
+At this point they can rest in the fridge for up to 3 days, apparently.
 
 ## Cooking
 1. Roll into as-round-as-you-can tortillas, as thin as you can. Set them aside as made
@@ -39,3 +42,8 @@ Using [King Arthur Unbleached All-Purpose Flour](https://shop.kingarthurflour.co
 | Cholesterol (mg) | 53 | 4.4 |
 | Total Carbohydrate (g) | 265 | 22 |
 | Protein (g) | 46 | 4 |
+
+# Notes
+- When forming the balls the dough should weld back together. If it doesn't, dip your finger tips in water then rework. Add more water next time.
+- Butter flavored shortening is popular with Canadians
+- Try not to roll flat in more than 4-5 passes. The fewer the better
