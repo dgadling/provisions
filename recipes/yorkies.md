@@ -26,7 +26,8 @@ The BBC has more [good references](https://www.bbcgoodfood.com/howto/guide/top-t
 
 ## Ingredients
 
-> **_NOTE:_** This is designed to be scaled using eggs. 1 egg is ~ 1.25 yorkies, so 5 eggs gets you about 6 muffin tin sized yorkies
+> **_NOTE:_** This is designed to be scaled using eggs. 1 egg is ~ 1.25 yorkies, so 5 eggs gets you about 6 muffin tin sized yorkies.
+
 > **_NOTE:_** 1 egg is not 1.25 yorkies when you use a [proper yorkie tin](https://www.amazon.com/WIN-WARE-Non-Stick-Yorkshire-yorkshire-puddings/dp/B00GFUHB5G). Ratios will be WIP
 
 > **_NOTE:_** Flour ratio is WIP. I've seen anywhere from ~28-35 grams per egg. 28 was super "eggy", 35 was more like a popover (in a muffin tin)
