@@ -43,7 +43,7 @@ This made ~ 5 ounces when pushed through a fine mesh strainer.
 # Variations
 All of these variants went through _roughly_ the above process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
 
-The [2019 varieties](recipes/firesauce-2019.md) have moved to their own place.
+The [2019 varieties](firesauce-2019.md) have moved to their own place.
 
 | Name | Peppers | Garlic | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- | ----- |
