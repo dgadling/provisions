@@ -49,15 +49,18 @@ The [2019 varieties](firesauce-2019.md) have moved to their own place.
 | ---- | ------- | ------ | ----- | ---- | ----- |
 
 **🌶🌶🌶**
-- [Aji Orange](https://www.superhotchiles.com/product/aji-ecuador-orange-pepper-seeds/)
-- [Aji Pineapple](https://www.superhotchiles.com/product/aji-pineapple-hot-pepper-seeds/)
-- [Atomic Starfish](https://pepperjoe.com/products/atomic-starfish)
-- [Bhutla 7 Chocolate](https://pepperjoe.com/products/bhutlah-bubblegum-7-pot-chocolate-seeds)
-- [Carolina Reaper](https://www.rareseeds.com/store/vegetables/peppers/hot/carolina-reaper-hot-pepper)
-- [Early Jalapeno](https://pepperjoe.com/collections/jalapeno-seeds/products/jalapeno-pepper-early)
-- [Fresno](https://pepperjoe.com/collections/jalapeno-seeds/products/fresno-pepper)
-- [Giant Jalapeno](https://pepperjoe.com/collections/jalapeno-seeds/products/giant-jalapeno)
-- [Lemon Spice Jalapeno](https://www.superhotchiles.com/product/lemon-spice-giant-pepper-10-seeds/)
-- [Orange Spice Jalapeno](https://www.rareseeds.com/store/vegetables/new-items-2019/orange-spice-jalape-o)
-- [Piri piri](https://www.etsy.com/listing/209067134/piri-piri-african-birds-eye-pepper-seeds)
-- [Sugar Rush Peach](https://www.superhotchiles.com/product/sugar-rush-peach-pepper-seeds/)
+| Name                     |    Avg SHU | Source |
+| ------------------------ | ---------: | ------ |
+| ***Carolina Reaper***    | ***1.8M*** | [Baker Creek](https://www.rareseeds.com/store/vegetables/peppers/hot/carolina-reaper-hot-pepper)
+| ***Bhutla 7 Chocolate*** | ***> 1M*** | [Pepper Joe](https://pepperjoe.com/products/bhutlah-bubblegum-7-pot-chocolate-seeds)
+| **Aji Pineapple**        |    **25k** | [Super Hot Chiles](https://www.superhotchiles.com/product/aji-pineapple-hot-pepper-seeds/)
+| **Aji Orange**           |    **20k** | [Super Hot Chiles](https://www.superhotchiles.com/product/aji-ecuador-orange-pepper-seeds/)
+| **Atomic Starfish**      |  **12.5k** | [Pepper Joe](https://pepperjoe.com/products/atomic-starfish)
+| Early Jalapeno           |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/jalapeno-pepper-early)
+| Fresno                   |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/fresno-pepper)
+| Giant Jalapeno           |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/giant-jalapeno)
+| Lemon Spice Jalapeno     |         5k | [Super Hot Chiles](https://www.superhotchiles.com/product/lemon-spice-giant-pepper-10-seeds/)
+| Orange Spice Jalapeno    |         5k | [Baker Creek](https://www.rareseeds.com/store/vegetables/new-items-2019/orange-spice-jalape-o)
+| Piri piri                |         ?? | [Etsy?!](https://www.etsy.com/listing/209067134/piri-piri-african-birds-eye-pepper-seeds)
+| Sugar Rush Peach         |       < 5k | [Super Hot Chiles](https://www.superhotchiles.com/product/sugar-rush-peach-pepper-seeds/)
+
