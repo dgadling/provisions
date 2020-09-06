@@ -15,6 +15,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Glazed Carrots](recipes/carrots.md) in which carrots are converted to junk food (:leaves:)
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
+- [Shortbread](recipes/shortbread.md) is a Scottish favourite (:scotland:)
 - [Skillet Penne w/ Spinach & Sausage](recipes/skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves: :bread:)
 - [SuperMac](recipes/mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
 - [Swedish Pancakes](recipes/swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
