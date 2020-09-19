@@ -41,26 +41,13 @@ This made ~ 5 ounces when pushed through a fine mesh strainer.
 :tada: :fire: :tada: :fire: :tada: :fire:
 
 # Variations
-All of these variants went through _roughly_ the above process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
+Each year we have:
+- A list of peppers
+- The various recipes created using the above template with:
+  - Amounts & types of ingredients used
+  - How long it fermented and how it was finished, along with yield
+  - Tasting and popularity notes!
 
-The [2019 varieties](firesauce-2019.md) have moved to their own place.
-
-| Name | Peppers | Garlic | Sugar | Salt | Water |
-| ---- | ------- | ------ | ----- | ---- | ----- |
-
-**🌶🌶🌶**
-| Name                     |    Avg SHU | Source |
-| ------------------------ | ---------: | ------ |
-| ***Carolina Reaper***    | ***1.8M*** | [Baker Creek](https://www.rareseeds.com/store/vegetables/peppers/hot/carolina-reaper-hot-pepper)
-| ***Bhutla 7 Chocolate*** | ***> 1M*** | [Pepper Joe](https://pepperjoe.com/products/bhutlah-bubblegum-7-pot-chocolate-seeds)
-| **Aji Pineapple**        |    **25k** | [Super Hot Chiles](https://www.superhotchiles.com/product/aji-pineapple-hot-pepper-seeds/)
-| **Aji Orange**           |    **20k** | [Super Hot Chiles](https://www.superhotchiles.com/product/aji-ecuador-orange-pepper-seeds/)
-| **Atomic Starfish**      |  **12.5k** | [Pepper Joe](https://pepperjoe.com/products/atomic-starfish)
-| Early Jalapeno           |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/jalapeno-pepper-early)
-| Fresno                   |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/fresno-pepper)
-| Giant Jalapeno           |         5k | [Pepper Joe](https://pepperjoe.com/collections/jalapeno-seeds/products/giant-jalapeno)
-| Lemon Spice Jalapeno     |         5k | [Super Hot Chiles](https://www.superhotchiles.com/product/lemon-spice-giant-pepper-10-seeds/)
-| Orange Spice Jalapeno    |         5k | [Baker Creek](https://www.rareseeds.com/store/vegetables/new-items-2019/orange-spice-jalape-o)
-| Piri piri                |         ?? | [Etsy?!](https://www.etsy.com/listing/209067134/piri-piri-african-birds-eye-pepper-seeds)
-| Sugar Rush Peach         |       < 5k | [Super Hot Chiles](https://www.superhotchiles.com/product/sugar-rush-peach-pepper-seeds/)
-
+Years:
+- **[2019](firesauce-2019.md)**
+- [2020](firesauce-2020.md) - _in progress_

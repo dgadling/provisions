@@ -1,7 +1,16 @@
 # Firesauce 2019
+
+**🌶🌶🌶**
+- Jalapeño (generic from grocery store)
+- [Havasu](https://bonnieplants.com/product/havasu-hot-pepper/)
+- [Fresno](https://bonnieplants.com/product/flaming-flare-fresno-chili-pepper/)
+- [Dragon Cayenne](https://bonnieplants.com/product/dragon-cayenne-pepper/)
+- [Garden](https://bonnieplants.com/product/garden-salsa-hot-pepper/)
+- [Cowhorn](https://bonnieplants.com/product/cowhorn-hot-pepper/)
+
 These are all the variations of the [firesauce](recipes/firesauce.md) attempted in 2019, along with their notes.
 
-All of these variants went through _roughly_ the above process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
+All of these variants went through _roughly_ the same process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
 
 | Name | Peppers | Garlic | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- | ----- |
@@ -31,14 +40,6 @@ All of these variants went through _roughly_ the above process, for varying amou
 **NOTES**: Some sauces had extra stuff for the ferment:
 - Yuzu Garden 9.25 -- 10g yuzu extract, 9g ginger
 - Lemon Kingdom 9.25 -- 22g lemongrass, 20g ginger
-
-**🌶🌶🌶**
-- Jalapeño (generic)
-- [Havasu](https://bonnieplants.com/product/havasu-hot-pepper/)
-- [Fresno](https://bonnieplants.com/product/flaming-flare-fresno-chili-pepper/)
-- [Dragon Cayenne](https://bonnieplants.com/product/dragon-cayenne-pepper/)
-- [Garden](https://bonnieplants.com/product/garden-salsa-hot-pepper/)
-- [Cowhorn](https://bonnieplants.com/product/cowhorn-hot-pepper/)
 
 # Variation Results
 ## Smoked Anaheim :frowning:
