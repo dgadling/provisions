@@ -12,34 +12,45 @@ These are all the variations of the [firesauce](recipes/firesauce.md) attempted 
 
 All of these variants went through _roughly_ the same process, for varying amounts of time (due to laziness/schedules). **NOTE** that basically all of these came out to ~ 4 cups (2 pints/1 quart) of mash to ferment. Plan jars appropriately.
 
+**NOTE**: Percentages are based on weight of the vegetables. Garlic is taken into account, sugar isn't.
+
 | Name | Peppers | Garlic | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- | ----- |
 | ~~Smoked Anaheim~~ | ~~Smoked anaheims~~ | ~~???~~ | ~~???~~ | ~~???~~ | ~~???~~ |
 | :heavy_check_mark: Green 9.2 | 200g Jalapeño, 200g Havasu | 42g | 10g | 20g | 1C |
-| :heavy_check_mark: Orange 9.2 | 200g Fresno, 200g Havasu | 45g | 10g | 20g | 2C |
+| :heavy_check_mark: Orange 9.2 | 200g Fresno, 200g Havasu | 45g (11.25%) | 10g (2.50%) | 20g (4.49%) | 2C |
 | :heavy_check_mark: Red 9.9 | 400g Fresno | 26g | 10g | 30g | ½C |
 | ~~White 9.10~~ | ~~475g Havasu~~ | ~~0~~ | ~~20g~~ | ~~20g~~ | ~~½C~~ |
-| :heavy_check_mark: Orange 9.15 | 393g Fresno, 394g Havasu | 24g | 20g | 20g | ¼C |
+| :heavy_check_mark: Orange 9.15 | 393g Fresno, 394g Havasu | 24g (3.05%)| 20g (2.47%) | 20g (2.47%) | ¼C |
 | :heavy_check_mark: Orange Dragon 9.15 | 542g Havasu, 260g Fresno, 20g Dragon Cayenne | 0 | 10g | 10g | ⅛C |
-| :heavy_check_mark: Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g | 10g | 25g | ½C |
+| :heavy_check_mark: Orange Helsing 9.23 | 205g Havasu, 205g Fresno | 120g (29.27%) | 10g (1.89%) | 25g (4.72%) | ½C |
 | :heavy_check_mark: Dragon 9.23 | 400g Dragon Cayenne | 45g | 10g | 20g | 1¼C |
 | :tada: Megaton Moo 9.23 | 211g Cowhorn, 206g Havasu | 62g | 10g | 21g | ½C |
 | :x: Therapy Mouse 9.24 | 605g Anaheim, 5g Cayenne | 36g | 10g | 30g | ½C |
 | :x: Angry Mouse 9.24 | 610g Anaheim, 9g Cayenne | 36g | 10g | 30g | ½C |
 | :heavy_check_mark: Hot Havasu 9.24 | 607g Havasu, 7g Cayenne | 46g | 10g | 20g | ½C |
 | :heavy_check_mark: Fresno Horn 9.24 | 310g Fresno, 197g Havasu, 145g Cowhorn | 30g | 11g | 21g | ½C |
-| :heavy_check_mark: Orange 9.25 | 316g Fresno, 313g Havasu | 76g | 15g | 24g | ½C |
+| :heavy_check_mark: Orange 9.25 | 316g Fresno, 313g Havasu | 76g (12.08%) | 15g (2.13%) | 24g (3.40%) | ½C |
 | :heavy_check_mark: Fresno 9.25 | 609g Fresno | 45g | 10g | 25g | ½C |
 | :tada: Yuzu Garden 9.25 | 291g Garden, 280g Anaheim | 61g | 11g | 21g | ½C |
 | :x: Lemon Kingdom 9.25 | 390g Anaheim, 205g Garden Salsa | 20g | 15g | 22g | 1C |
 | Dragon 12.26 | 200g Dragon, 203g Fresno | 20g | 8g | 5g | ½C |
 | Green 12.26 | 285g misc, 93g Fresno, 30g Dragon | 28g | 11g | 12g | ½C |
-| Hab 12.26 | 175g habanero, 200g Havasu, 20g Dragon | 21g | 8g | 8g | ½C |
-| Orange 12.26 | 225g havasu, 471g Fresno | 26g | 11g | 11g | ½C |
+| Hab 12.26 | 175g habanero, 200g Havasu, 20g Dragon | 21g (5.32%) | 8g (1.92%) | 8g (1.92%) | ½C |
+| Orange 12.26 | 225g havasu, 471g Fresno | 26g (3.74%) | 11g (1.52%) | 11g (1.52%) | ½C |
 
-**NOTES**: Some sauces had extra stuff for the ferment:
+### Notes
+Some sauces had extra stuff for the ferment:
 - Yuzu Garden 9.25 -- 10g yuzu extract, 9g ginger
 - Lemon Kingdom 9.25 -- 22g lemongrass, 20g ginger
+
+The "orange"s had the following ranges for non-pepper ingredients
+
+| | Garlic | Sugar | Salt |
+| - | -: | -: | -: |
+| min | 3.05% | 1.52% | 1.52% |
+| med | 8.28% | 2.03% | 2.94% |
+| max | 29.27% | 2.47% | 4.72% |
 
 # Variation Results
 ## Smoked Anaheim :frowning:
@@ -58,7 +69,7 @@ All of these variants went through _roughly_ the same process, for varying amoun
 - Fermentation time: ~ 9 days
 - Finish steps: Added ⅛C apple cider vinegar, very mild reduction on the stove, ½tsp xanthan gum
 - Yield: 2 cups
-- **NOTES**: Came out **great**, shorter heat-reaction than the greena bove
+- **NOTES**: Came out **great**, shorter heat-reaction than the green above
 
 ## White 9.10 :frowning:
 - Lost due to mold during fermentation + not smelling like anything after the mold was removed

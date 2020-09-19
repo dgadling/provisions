@@ -24,6 +24,8 @@ There's two big differences through:
   1. Most of the recipes have a **single pepper type** in them
   2. Any that needed a kick got some amount of the Reaper Madness added, for kick
 
+**NOTE**: Percentages taken from the amount of vegetables used. The weight of the sugar is ignored.
+
 ## Variations
 | Name | Vegetables | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- | ----- |
