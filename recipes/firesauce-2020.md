@@ -28,7 +28,7 @@ There's two big differences through:
 
 ## Variations
 | Name | Vegetables | Sugar | Salt | Water |
-| ---- | ------- | ------ | ----- | ---- | ----- |
+| ---- | ------- | ------ | ----- | ---- |
 | n | v | su | sa | w |
 
 ## Results
