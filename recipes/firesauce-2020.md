@@ -30,12 +30,32 @@ We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it
 
 ## Variations
 | Name | Vegetables | Sugar | Salt | Water |
-| ---- | ------- | ------ | ----- | ---- |
-| Peach 09.19 | 1079g Peach pepper + 21g garlic | 21g (1.9%) | 21g (1.9%) | 1C |
-| Citrus 09.19 | 1375g Lemon/Orange spice Jalapeno + 41g garlic | 27g (1.9%) | 34g (2.4%) | ¼C |
+| ---- | ------- | ------: | -----: | ----: |
+| Peach 09.19 | 1,079g Peach pepper + 21g garlic | 21g (1.9%) | 21g (1.9%) | 1C |
+| Citrus 09.19 | 1,375g Lemon/Orange spice Jalapeno + 41g garlic | 27g (1.9%) | 34g (2.4%) | ¼C |
+| Red 09.19 | 3,835g Fresno + 575g garlic | 110g (2%) | 132g (3%) | None! |
+| Green 09.19 | 1,871g Jalapeño + 187g garlic | 41g (2%) | 41g (2%) | ¼C |
 
 ## Results
-### <Name> :frowning:/:relaxed:
+### Peach 09.19 :frowning:/:relaxed:
+- Fermentation time:
+- Finishing steps:
+- Yield:
+- **NOTES**:
+
+### Citrus 09.19 :frowning:/:relaxed:
+- Fermentation time:
+- Finishing steps:
+- Yield:
+- **NOTES**:
+
+### Red 09.19 :frowning:/:relaxed:
+- Fermentation time:
+- Finishing steps:
+- Yield:
+- **NOTES**:
+
+### Green 09.19 :frowning:/:relaxed:
 - Fermentation time:
 - Finishing steps:
 - Yield:
