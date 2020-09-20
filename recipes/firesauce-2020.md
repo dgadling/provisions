@@ -26,6 +26,8 @@ There's two big differences through:
 
 **NOTE**: Percentages taken from the amount of vegetables used. The weight of the sugar is ignored.
 
+We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it's not fermented it doesn't appear here.
+
 ## Variations
 | Name | Vegetables | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- |
