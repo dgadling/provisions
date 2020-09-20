@@ -29,7 +29,8 @@ There's two big differences through:
 ## Variations
 | Name | Vegetables | Sugar | Salt | Water |
 | ---- | ------- | ------ | ----- | ---- |
-| n | v | su | sa | w |
+| Peach 09.19 | 1079g Peach pepper + 21g garlic | 21g (1.9%) | 21g (1.9%) | 1C |
+| Citrus 09.19 | 1375g Lemon/Orange spice Jalapeno + 41g garlic | 27g (1.9%) | 34g (2.4%) | ¼C |
 
 ## Results
 ### <Name> :frowning:/:relaxed:
