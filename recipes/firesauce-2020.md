@@ -35,6 +35,7 @@ We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it
 | Citrus 09.19 | 1,375g Lemon/Orange spice Jalapeno + 41g garlic | 27g (1.9%) | 34g (2.4%) | ¼C |
 | Red 09.19 | 3,835g Fresno + 575g garlic | 110g (2%) | 132g (3%) | None! |
 | Green 09.19 | 1,871g Jalapeño + 187g garlic | 41g (2%) | 41g (2%) | ¼C |
+| Yellow 09.20 | 384g yellow bell pepper + 393g aji pineapple + 116g garlic | 17g (2%) | 17g (2%) | None! |
 
 ## Results
 ### Peach 09.19 :frowning:/:relaxed:
