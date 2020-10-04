@@ -38,6 +38,18 @@ We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it
 | Yellow 09.20 | 384g yellow bell pepper + 393g aji pineapple + 116g garlic | 17g (2%) | 17g (2%) | None! |
 
 ## Results
+### Red 09.19 :relaxed:
+- Fermentation time: 14 days
+- Finishing steps: ½C distilled white vinegar, brought to boil, simmered for 10-15 minutes
+- Yield: 72 oz
+- **NOTES**: Pretty solid base and lots of it! May add some to some fresher Fresno, garlic salsa to make something closer to California Sauce
+
+### Green 09.19 :frowning:/:relaxed:
+- Fermentation time:
+- Finishing steps:
+- Yield:
+- **NOTES**:
+
 ### Peach 09.19 :frowning:/:relaxed:
 - Fermentation time:
 - Finishing steps:
@@ -45,18 +57,6 @@ We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it
 - **NOTES**:
 
 ### Citrus 09.19 :frowning:/:relaxed:
-- Fermentation time:
-- Finishing steps:
-- Yield:
-- **NOTES**:
-
-### Red 09.19 :frowning:/:relaxed:
-- Fermentation time:
-- Finishing steps:
-- Yield:
-- **NOTES**:
-
-### Green 09.19 :frowning:/:relaxed:
 - Fermentation time:
 - Finishing steps:
 - Yield:
