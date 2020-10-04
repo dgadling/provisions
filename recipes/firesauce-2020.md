@@ -45,10 +45,10 @@ We made [Reaper Madness](reaper-madness.md) with some of these peppers. Since it
 - **NOTES**: Pretty solid base and lots of it! May add some to some fresher Fresno, garlic salsa to make something closer to California Sauce
 
 ### Green 09.19 :frowning:/:relaxed:
-- Fermentation time:
-- Finishing steps:
-- Yield:
-- **NOTES**:
+- Fermentation time: 15 days
+- Finishing steps: ¼C distilled white vinegar + 1 tablespoon sugar, brought to boil, simmered for 10 minutes
+- Yield: 32 oz
+- **NOTES**: Started out **way** too spicy, so added some sugar.
 
 ### Peach 09.19 :frowning:/:relaxed:
 - Fermentation time:
