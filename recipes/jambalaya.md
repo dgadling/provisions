@@ -2,6 +2,8 @@
 
 ## Ingredients
 
+* 3 ½ cups rice 
+
 **meat**
 
 * 1¼ lb - pork
