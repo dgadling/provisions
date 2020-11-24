@@ -18,6 +18,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [SuperMac](recipes/mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
 - [Swedish Pancakes](recipes/swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
 - [Traditional Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
+- [Butter Cookies](recipes/butter-cookies.md) is exactly what it sounds like (:milk_glass: :egg: :bread:)
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](recipes/low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
