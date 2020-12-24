@@ -1,23 +1,23 @@
 # Ingredients
 
 - 6 eggs, separated
-- ½ C granulated sugar
-- 1 tablespoon white sugar (for later)
-- 3 C whole milk
-- 1 C heavy cream
-- ½ C alcohol (bourbon/dark rum/whiskey, a mix, whatever)
+- ½ C (125 g ) granulated sugar
+- 1 Tbsp (15 g) white sugar (for later)
+- 3 C (~ 700 mL) whole milk
+- 1 C (~ 235 mL) heavy cream
+- ½ C (~ 120 mL) alcohol (bourbon/dark rum/whiskey, a mix, whatever)
 - Christmas spices
-  - 1 tsp grated nutmeg (ideally freshly grated, but whatever works)
-  - 1 tsp vanilla
-  - 1 tsp cinnamon
-  - ½ tsp ginger
-  - ⅛ tsp cloves
+  - 1 tsp (2.5 g) grated nutmeg (ideally freshly grated, but whatever works)
+  - 1 tsp (5 mL) vanilla
+  - 1 tsp (2.5 g) cinnamon
+  - ½ tsp (1.3 g) ginger
+  - ⅛ tsp (0.25 g) cloves
 
 # Directions
 
 1. Separate the eggs
 2. Combine the yolks, sugar, milk, and cream in a pot
-3. Cook on medium heat, whisking very frequently, until it reaches 170° - 180° F, then take off the heat. Use a candy thermometer if you have one!
+3. Cook on medium heat, whisking very frequently, until it reaches 170° - 180° F (76° - 82° C), then take off the heat. Use a candy thermometer if you have one!
 4. Add alcohol and spices, whisk really well
 5. Cool pot in a water bath if possible, whisking as you do
 6. Pour into a pitcher/jar/whatever and refrigerate to continue cooling
