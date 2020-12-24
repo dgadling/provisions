@@ -7,7 +7,7 @@
 - 1 C heavy cream
 - 1/2 alcohol (bourbon/dark rum/whiskey, a mix, whatever)
 - Christmas spices
-  - 1 tsp grated nutmeg
+  - 1 tsp grated nutmeg (ideally freshly grated, but whatever works)
   - 1 tsp vanilla
   - 1 tsp cinnamon
   - 1/2 tsp ginger
@@ -17,12 +17,12 @@
 
 1. Separate the eggs
 2. Combine the yolks, sugar, milk, and cream in a pot
-3. Cook on medium heat until it reaches 170 - 180F, whisking nearly constantly. Use a candy thermometer if you have one!
+3. Cook on medium heat, whisking very frequently, until it reaches 170 - 180F, then take off the heat. Use a candy thermometer if you have one!
 4. Add alcohol and spices, whisk really well
 5. Cool pot in a water bath if possible, whisking as you do
 6. Pour into a pitcher/jar/whatever and refrigerate to continue cooling
 7. Whisk egg whites to very soft peaks/foam, then add sugar until you get stiffer (not stiff!) peaks
-8. Semi-gently whisk egg whites into the cooled nog
+8. Semi-gently whisk/add egg whites into the cooled nog
 9. Allow to age as long as you can tolerate
 10. Add more freshly ground nutmeg/whiskey when serving
 
