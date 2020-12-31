@@ -55,7 +55,8 @@
 3. Arrange sliced bananas on pastry cream, then top with remaining pastry cream.
 4. Using a stand mixer with a whisk, whip the cream, confectioners' sugar, and remaining 1/2 tsp vanilla on medium-low speed until foamy, about 1 minute.
 5. Increase speed to high and whip until stiff peaks form, 1 to 3 minutes.
-6. Spread whipped cream evenly over top of pie.
+6. **Pipe** whipped cream evenly over top of pie, smooth if desired.
+    - At this point the pastry cream is probably softer than the whipped cream. This will make spreading challenging, if not impossible. Get it close to how you want it to begin with.
 
 Refigerate until set, at least 5 hours and up to 24 hours, then serve!
 
