@@ -4,6 +4,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 ## Recipes
 - [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
+- [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great (:chicken: :bread:)
 - [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
 - [Cinnamon-Cumin Salad Dressing](recipes/cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
 - [Cyclone Chili](recipes/cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
