@@ -14,7 +14,9 @@
 - Dash or splash, or gallon, of hot sauce
   - [Pepper Plant California Style Hot Sauce](http://www.thepepperplant.com/shop.html) is fantastic
 - ⅛ tsp cayenne
-- ⅛ tsp chili powder
+- ¼ tsp chili powder
+- ¼ tsp ground mustard
+- ⅛ tsp smoked paprika
 
 ## Topping
 - ¾ cup panko or breadcrumbs
