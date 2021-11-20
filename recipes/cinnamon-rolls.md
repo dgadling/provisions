@@ -13,7 +13,7 @@
 * 50g light brown sugar
 * 1 tsp salt
 * 1 package (2 ¼ tsp) instant yeast
-* 1 tsp cinnamon
+* 1 tsp cinnamon (Vietnamese, ideally)
 * ½ tsp nutmeg
 ### Wets
 * 120 mL (½ cup) **whole** milk
@@ -24,10 +24,10 @@
 * 1 large (jumbo, ideally) egg
 
 ## For the filling (maybe scale slightly up)
-* 57g (4 tbsp) softened **unsalted** butter
+* 78 (5½ tbsp) softened **unsalted** butter
 * 3 tbsp granulated sugar
 * 2 tbsp brown sugar (use dark/light/mix as you see fit)
-* 1 tbsp cinnamon
+* 1 tbsp cinnamon (Vietnamese, ideally)
 * ¼ tsp vanilla
 
 ## For the icing
