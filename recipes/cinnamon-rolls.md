@@ -23,11 +23,11 @@
 ### While mixing
 * 1 large (jumbo, ideally) egg
 
-## For the filling (maybe scale slightly up)
-* 78 (5½ tbsp) softened **unsalted** butter
+## For the filling (a double batch is fun)
+* 57 (4 tbsp) softened **unsalted** butter
 * 3 tbsp granulated sugar
 * 2 tbsp brown sugar (use dark/light/mix as you see fit)
-* 1 tbsp cinnamon (Vietnamese, ideally)
+* 2 tbsp cinnamon (Vietnamese, ideally)
 * ¼ tsp vanilla
 
 ## For the icing
