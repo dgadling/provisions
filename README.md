@@ -7,6 +7,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great (:chicken: :bread:)
 - [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
 - [Cinnamon-Cumin Salad Dressing](recipes/cinnamon-cumin-salad-dressing.md) quick, easy and tasty salad dressing (:green_salad:)
+- [Cinnamon Rolls](recipes/cinnamon-rolls.md) big fluffy cinnamon rolls (:milk_glass: :egg: :bread:)
 - [Cyclone Chili](recipes/cyclone-chili.md) is from a Marlboro cookbook (:cow: :hot_pepper:)
 - [Egg nog](recipes/egg-nog.md) is exactly what you'd expect (:egg: :milk_glass: :santa:)
 - [:fire: sauce](recipes/firesauce.md) is a bare-bones chili sauce (:hot_pepper:)
