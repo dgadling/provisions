@@ -1,10 +1,10 @@
 # Ingredients
 
 - 6 eggs, separated
-- ½ C (125 g ) granulated sugar
+- ½ C (125 g ) granulated sugar / 150g Erythritol	
 - 1 Tbsp (15 g) white sugar (for later)
-- 3 C (~ 700 mL) whole milk
-- 1 C (~ 235 mL) heavy cream
+- 3 C (~ 700 mL) whole milk / oat milk
+- 1 C (~ 235 mL) heavy cream / 118g silken tofu + 118g soy milk
 - ½ C (~ 120 mL) alcohol (bourbon/dark rum/whiskey, a mix, whatever) **SEE NOTES**
 - Christmas spices
   - 1 tsp (2.5 g) grated nutmeg (ideally freshly grated, but whatever works)
