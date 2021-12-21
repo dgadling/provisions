@@ -1,7 +1,7 @@
 # Ingredients
 
 - 6 eggs, separated
-- ½ C (125 g ) granulated sugar / 150g Erythritol	
+- ½ C (125 g ) granulated sugar / Erythritol **SEE NOTES**
 - 1 Tbsp (15 g) white sugar (for later)
 - 3 C (~ 700 mL) whole milk / oat milk
 - 1 C (~ 235 mL) heavy cream / 118g silken tofu + 118g soy milk
@@ -32,6 +32,9 @@ This came out great but only ***after*** letting it chill overnight. It tasted a
 The base mostly filled a 64 oz mason jar. I wasn't able to get all of the egg whites in.
 Over time as the bubbles broke down it made a bit more room.
 Whisk/mix the whites in aggressively if you really want to get them all in, but it's OK if you have some left over.
+
+If you're going the dairy-free-lower-sugar route, keep the Erythritol weight the same as sugar since the sweeter oat milk will make up the difference.
+If you're just going the lower-sugar route, well, good luck and let me know what you thought!
 
 ### Important alcohol note
 We used 51.5% bourbon because it was what we had on hand. For our tastes this was just right - enough to know it's "adult" egg nog, while leaving room to add more if you want a heavier pour.
