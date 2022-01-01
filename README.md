@@ -2,6 +2,7 @@
 Just a list of recipes and things that's open to pull requests and has a history of revisions over time.
 
 ## Recipes
+- [Banana Cream Pie](recipes/banana-cream-pie.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great (:chicken: :bread:)
@@ -15,12 +16,18 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Focaccia](recipes/focaccia.md) that is super easy and tasty (:bread:)
 - [Ginger Scones](recipes/gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg: :bread:)
 - [Glazed Carrots](recipes/carrots.md) in which carrots are converted to junk food (:leaves:)
+- [Hot Toddy](recipes/hot-toddy.md) is warm & boozy exactly what you'd expect
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
+- [Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
+- [Roasties](recipes/roasties.md) is one of the best potato forms
 - [Skillet Penne w/ Spinach & Sausage](recipes/skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves: :bread:)
+- [Strawberry Mochi Cake](recipes/strawberry-mochi-cake.md) are chewy strawberry fun (:bread: :milk_glass: :egg:)
 - [SuperMac](recipes/mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
 - [Swedish Pancakes](recipes/swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
-- [Traditional Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
+- [Tandoori Chicken](recipes/tandoori-chicken.md) has a ton of ingredients, but is actually really simple (:chicken: :milk_glass:)
+- [Tourtière](recipes/Tourtière.md)is a Canadian meat pie(:pig: :cow: :bread: :egg: :milk_glass:)
+- [Yorkshire Pudding](recipes/yorkies.md) this is apparently a work in progress because @standardtoaster doesn't know how git works :joy:
 
 ## Smoked deliciousness
 - [Low & Slow smoked ribs](recipes/low-slow-smoked-ribs.md) is pretty easy but does take ~5½ hours (:pig: :hot_pepper:)
