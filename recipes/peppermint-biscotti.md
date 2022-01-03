@@ -1,4 +1,4 @@
-# Ingredients
+# Ingredients (:milk_glass: :egg: :bread:)
 - ¾ cup butter, room temp/softened **not** melted
 - ¾ cup sugar
 - 3 large eggs, room temp
@@ -6,7 +6,7 @@
 - 3 + ¼ cup (390g) all-purpose flour
 - 1 tsp baking powder
 - ¼ tsp salt
-- 1 cup crushed **pepper**mint candies - you want the pieces pretty small, ¼" on the longest side
+- 1 cup crushed **pepper**mint candies[^1]
 
 # Directions
 1. Preheat oven to 350F
@@ -20,7 +20,7 @@
     - **NOTE**: Make sure the candy is pretty evenly distributed!
 
 ## First bake (~ 50 minutes)
-1. Divide dough in half on two pieces of parchment paper
+1. Divide dough in half on two pieces of parchment paper [^2]
 2. With lightly floured hands, lightly roll into a log (~ 12" x 2½") and place on parchment paper, giving a few little pats to give it a flatter top.
 3. Bake for ~25 minutes / until golden brown
 4. Carefully (so the loaves don't break) move to wire racks and allow to cool ~ 15 minutes
@@ -28,8 +28,7 @@
 6. Bake 6-7 minutes, flip pieces to other side, then bake another 6-7 minutes, until quite firm (they'll harden even more as they cool)
 7. Move to wire racks to cool
 
-# NOTES
-- You want the candy pieces to be small and well mixed because when they melt they become structural weak points. This makes working with the loaves after the first bake _tricky_ if there are larger pieces of candy.
-- Since there can be hot candy (read: glue) on the bottom/sides of the loaves, things might get interesting with the parchment paper. I haven't tried it yet.
+[^1]: You want the candy pieces to be small (~ ¼" on the long side) and well mixed. Otherwise, when they melt, they become structural weak points. This can make working with the loaves after the first bake _tricky_.
+[^2]: Since there can be hot candy (read: glue) on the bottom/sides of the loaves, things might get interesting with the parchment paper. I haven't tried it yet.
  
 Taken from [Taste of Home](https://www.tasteofhome.com/recipes/peppermint-biscotti/)
