@@ -20,7 +20,7 @@
     - **NOTE**: Make sure the candy is pretty evenly distributed!
 
 ## First bake (~ 50 minutes)
-1. Divide dough in half on two pieces of parchment paper [^2]
+1. Divide dough in half on two pieces of parchment paper [^2] on a baking sheet [^3]
 2. With lightly floured hands, lightly roll into a log (~ 12" x 2½") and place on parchment paper, giving a few little pats to give it a flatter top.
 3. Bake for ~25 minutes / until golden brown
 4. Carefully (so the loaves don't break) move to wire racks and allow to cool ~ 15 minutes
@@ -37,5 +37,6 @@ If you want to complete the peppermint trifecta:
 
 [^1]: You want the candy pieces to be small (~ ¼" on the long side) and well mixed. Otherwise, when they melt, they become structural weak points. This can make working with the loaves after the first bake _tricky_.
 [^2]: Since there can be hot candy (read: glue) on the bottom/sides of the loaves, things might get interesting with the parchment paper. I haven't tried it yet.
+[^3]: Ideally use an Air Bake pan, or something similar, to prevent burning the bottom.
  
 Taken from [Taste of Home](https://www.tasteofhome.com/recipes/peppermint-biscotti/)
