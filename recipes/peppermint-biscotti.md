@@ -28,6 +28,13 @@
 6. Bake 6-7 minutes, flip pieces to other side, then bake another 6-7 minutes, until quite firm (they'll harden even more as they cool)
 7. Move to wire racks to cool
 
+## Dressing - optional!
+If you want to complete the peppermint trifecta:
+1. Crush some more peppermint candy (size doesn't matter here)
+2. Melt some chocolate
+3. Dip the fully cooled biscotti in the chocolate, lay on parchment paper, and sprinkle on peppermint candy
+4. Move to a refigerator to set the chocolate
+
 [^1]: You want the candy pieces to be small (~ ¼" on the long side) and well mixed. Otherwise, when they melt, they become structural weak points. This can make working with the loaves after the first bake _tricky_.
 [^2]: Since there can be hot candy (read: glue) on the bottom/sides of the loaves, things might get interesting with the parchment paper. I haven't tried it yet.
  
