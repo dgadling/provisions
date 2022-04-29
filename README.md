@@ -21,6 +21,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
 - [Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
+- [Peppermint Biscotti](recipes/peppermint-biscotti.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Roasties](recipes/roasties.md) is one of the best potato forms
 - [Skillet Penne w/ Spinach & Sausage](recipes/skillet-penne.md) is a quick meal-in-a-pan (:pig:/:chicken: :leaves: :bread:)
 - [Strawberry Mochi Cake](recipes/strawberry-mochi-cake.md) are chewy strawberry fun (:bread: :milk_glass: :egg:)
