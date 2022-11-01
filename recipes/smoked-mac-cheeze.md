@@ -1,41 +1,44 @@
-Ingredients
-===========
-- 8 oz medium/large elbow macaroni
-- ½ pounds bacon
-- ½ stick salted butter
-- ¼ cup all purpose flour
-- ½ tsp ground mustard
-- ½ tsp salt
-- ⅙ tsp paprika
-- ¼ tsp pepper
-- 2½ cups half & half
-- (Optional) 1.5 oz diced jalapeños
-- 2 cups shredded cheddar cheese in a large bowl
-- 1½ cups multi-cheese mix in a separate bowl
+# Ingredients
+- 12 oz medium/large elbow macaroni
 
-Tools
-=====
+## Cheese mix
+- Cheese
+    - 8 oz shredded Colby cheese
+    - 8 oz shredded medium cheddar cheese
+    - ¾ cup (6 oz) shredded sharp cheddar
+    - ¾ cup (6 oz) shredded aged gouda
+- Base
+    - ½ stick (2 oz) salted butter
+    - ¼ cup all purpose flour
+    - 2½ cups (20 oz) half & half
+- Extra flavors
+    - ½ pounds bacon
+    - ½ tsp ground mustard
+    - ¼ tsp salt
+    - ⅙ tsp paprika
+    - ¼ tsp pepper
+    - (Optional) 1.5 oz diced jalapeños
+
+# Tools
 - Collander
 - Large pot for boiling macaroni
 - Medium sauce pan
 - Large mixing bowl
 - 9" x 11" pan or all-edges or something similar, greased one way or another
 - Two burners
-- One oven
-- Optionally one smoker
+- One oven / smoker
 
-Directions
-==========
-1. Start heating the oven-ish-thing to 400 F. If you're using a separate smoker get it going at 225 F.
-2. In a large pot par-cook boil the pasta according to the directions. Generally 8-10 minutes.
+# Method of Preparation
+1. Start heating the oven-ish-thing to 400 F. If you're using a smoker get it going at 225 F.
+2. Bake the bacon on a cookie sheet (or wire rack on cookie sheet) for 15-25 minutes or until quite crunchy
+3. In a large pot par-cook boil the pasta according to the directions. Generally 8-10 minutes.
    1. You want it quite tough (al dente) still when you pull it out, it'll finish cooking later.
    2. Once it's done boiling rinse it with cold water until the pasta is cold to stop the cooking process.
-3. Bake the bacon on a cookie sheet (or wire rack on cookie sheet) for about 15 minutes or until quite crunchy
 4. With the pasta & bacon going you can do other things!
 5. In a medium sauce pot on medium heat:
    1. Melt the butter
    2. Add the flour, mustard, salt, pepper, and paprika. Stir until well mixed
-   3. Add the half & half and cook until thickened, about 8-10 minutes. It helps to use a whisk to help it thicken.
+   3. Add the half & half and cook until thickened, about 8-10 minutes. It helps to use a whisk.
    4. **NOTE**: You can leave this at any point if you need, to pull the bacon and crumble it, just turn the heat down to low and don't dawdle
 6. At some point pull the bacon out, soak up excess grease with a paper towel, and crumble.
    1. If you're not smoking, but regular baking, set the oven to 350 F.
