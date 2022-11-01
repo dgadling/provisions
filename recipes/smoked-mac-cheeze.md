@@ -1,10 +1,12 @@
 # Ingredients
-- 10 oz medium/large elbow macaroni
+- 12 oz medium/large elbow macaroni
 
 ## Cheese mix
 - Cheese
     - 8 oz shredded Colby cheese
     - 8 oz shredded medium cheddar cheese
+    - ¾ cup (6 oz) shredded sharp cheddar
+    - ¾ cup (6 oz) shredded aged gouda
 - Base
     - ½ stick (2 oz) salted butter
     - ¼ cup all purpose flour
@@ -12,12 +14,10 @@
 - Extra flavors
     - ½ pounds bacon
     - ½ tsp ground mustard
-    - ½ tsp salt
+    - ¼ tsp salt
     - ⅙ tsp paprika
     - ¼ tsp pepper
     - (Optional) 1.5 oz diced jalapeños
-
-- ¾ cup (6 oz) shredded sharp cheddar + ¾ cup (6 oz) shredded aged gouda in a separate bowl
 
 # Tools
 - Collander
@@ -38,7 +38,7 @@
 5. In a medium sauce pot on medium heat:
    1. Melt the butter
    2. Add the flour, mustard, salt, pepper, and paprika. Stir until well mixed
-   3. Add the half & half and cook until thickened, about 8-10 minutes. It helps to use a whisk to help it thicken.
+   3. Add the half & half and cook until thickened, about 8-10 minutes. It helps to use a whisk.
    4. **NOTE**: You can leave this at any point if you need, to pull the bacon and crumble it, just turn the heat down to low and don't dawdle
 6. At some point pull the bacon out, soak up excess grease with a paper towel, and crumble.
    1. If you're not smoking, but regular baking, set the oven to 350 F.

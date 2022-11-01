@@ -1,5 +1,5 @@
 # Ingredients
-- 10oz pasta shells or elbows
+- 12 oz pasta shells or elbows
 
 ## Cheese mix
 - Cheese
