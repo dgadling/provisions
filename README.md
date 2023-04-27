@@ -14,6 +14,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Egg nog](recipes/egg-nog.md) is exactly what you'd expect (:egg: :milk_glass: :santa:)
 - [:fire: sauce](recipes/firesauce.md) is a bare-bones chili sauce (:hot_pepper:)
 - [Flour Tortillas](recipes/flour-tortillas.md) are quick, easy, and better than anything from a grocery store (:bread:)
+- [Fluffy Pandan Cakes](recipes/fluffy-pandcan-cakes.md) have a unique flavor, because pandan! (:milk_glass: :egg: :bread:)
 - [Focaccia](recipes/focaccia.md) that is super easy and tasty (:bread:)
 - [Ginger Scones](recipes/gingerscones.md) are also great used in strawberry shortcake (:milk_glass: :egg: :bread:)
 - [Glazed Carrots](recipes/carrots.md) in which carrots are converted to junk food (:leaves:)
