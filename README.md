@@ -20,6 +20,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Hot Toddy](recipes/hot-toddy.md) is warm & boozy exactly what you'd expect
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
+- [Marshmallows](recipes/marshmallows.md) is a very straightforward recipe for gelatin containing marshmallows of whatever flavor you like!
 - [Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
 - [Peppermint Biscotti](recipes/peppermint-biscotti.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Roasties](recipes/roasties.md) is one of the best potato forms
