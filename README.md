@@ -4,6 +4,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 ## Recipes
 - [Banana Cream Pie](recipes/banana-cream-pie.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
+- [Biscotti](recipes/biscotti.md) is a base recipe with notes about where to add things (:milk_glass: :egg: :bread:)
 - [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great (:chicken: :bread:)
 - [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
@@ -20,6 +21,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Hot Toddy](recipes/hot-toddy.md) is warm & boozy exactly what you'd expect
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook (:milk_glass: :hot_pepper: :bread:)
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online (:pig:)
+- [Jiffy corn casserole](recipes/jiffy-corn-casserole.md) made from cans but is comforting for many (:milk_glass:)
 - [Marshmallows](recipes/marshmallows.md) is a very straightforward recipe for gelatin containing marshmallows of whatever flavor you like!
 - [Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe (:milk_glass: :egg: :bread:)
 - [Peppermint Biscotti](recipes/peppermint-biscotti.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
@@ -28,6 +30,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Strawberry Mochi Cake](recipes/strawberry-mochi-cake.md) are chewy strawberry fun (:bread: :milk_glass: :egg:)
 - [SuperMac](recipes/mac-n-chz.md) is casserole-style mac (:milk_glass: :egg: :bread:)
 - [Swedish Pancakes](recipes/swedish-pancakes.md) is a recipe @dgadling got from a genuine Swede! (:egg: :milk_glass: :bread:)
+- [Sweet Potato Pie](recipes/sweet-potato-pie.md) comes out *excellent* with a marshmallow merengue topping (:egg: :milk_glass: :bread:)
 - [Tandoori Chicken](recipes/tandoori-chicken.md) has a ton of ingredients, but is actually really simple (:chicken: :milk_glass:)
 - [Tourtière](recipes/Tourtière.md)is a Canadian meat pie(:pig: :cow: :bread: :egg: :milk_glass:)
 - [Yorkshire Pudding](recipes/yorkies.md) this is apparently a work in progress because @standardtoaster doesn't know how git works :joy:
