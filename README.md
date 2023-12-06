@@ -5,6 +5,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Banana Cream Pie](recipes/banana-cream-pie.md) is exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Belgian Waffles](recipes/belgian-waffles.md) are exactly what you'd expect (:milk_glass: :egg: :bread:)
 - [Biscotti](recipes/biscotti.md) is a base recipe with notes about where to add things (:milk_glass: :egg: :bread:)
+- [Biscuits & Gravy](recipes/biscuits-and-gravy.md) is Kenji's 5 ingredient Biscuts & Gravy
 - [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever (:milk_glass: :egg: :bread: :peanuts:)
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great (:chicken: :bread:)
 - [Chocolate Date Cookies](recipes/chocodate.md) yum (:milk_glass: :egg: :bread:)
