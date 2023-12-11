@@ -3,16 +3,18 @@
 This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurbaking.com/recipes/american-style-vanilla-biscotti-recipe)
 
 # Ingredients
-- 6 tbsp (85g) butter ((un)salt(ed) doesn't matter)
-- ⅔ cup (131g) granulated sugar
-- ½ tsp table salt
-- 2-3 tsp vanilla extract
-- ¼ tsp almond extract (**optional**)
-- 1½ tsp baking powder
-- 2 large eggs
-- max 2 cups ***extras***, see selected quotes below
-- 2 cups (240g) unbleached AP flour
-- coarse sparkling / pearl sugar for sprinkling on top (**optional**)
+| Stock | Cinnamon v1 |  Apricot & Ginger | Cherry | Blueberry |
+| ----- | ----------- | ----------------- | ------ | --------- |
+| 6 tbsp (85g) butter ((un)salt(ed) doesn't matter) | EarthBalance | EarthBalance | EarthBalance | EarthBalance |
+| ⅔ cup (131g) granulated sugar | | | | |
+| ½ tsp table salt | Kosher | Kosher | Kosher | Kosher |
+| 2-3 tsp vanilla extract | 2 tsp | 1 Tbsp | 2 tsp | 2 tsp |
+| ¼ tsp almond extract (**optional**) | 1 tsp cinnamon emulsion | ❌ | ❌ | ❌ |
+| 1½ tsp baking powder | | | | |
+| 2 large eggs | | | | |
+| max 2 cups ***extras***, see selected quotes below | 1 C imperials | 150 g apricots + 67 g cryst ginger | 130g cherry jammy bits | 140g blueberry jammy bits |
+| 2 cups (240g) unbleached AP flour | | | | |
+| coarse sparkling / pearl sugar for sprinkling on top (**optional**) | ❌ | ❌ | ❌ | ❌ |
 
 # Procedure
 1. Preheat oven to 350°F. Lightly grease or line with parchment one large (18" x 13") baking sheet
