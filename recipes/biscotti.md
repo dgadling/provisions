@@ -3,18 +3,14 @@
 This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurbaking.com/recipes/american-style-vanilla-biscotti-recipe)
 
 # Ingredients
-| Original | Cinnamon v1 |  Apricot & Ginger | Cherry | Blueberry | Cinnamon v2 | Raspberry | Ginger |
-| -------- | ----------- | ----------------- | ------ | --------- | ----------- | --------- | ------ |
-| 6 tbsp (85g) butter | | | | | | 80g | |
-| ⅔ cup (131g) granulated sugar | | | | | | | |
-| ½ tsp table/Kosher salt | | | | | | | |
-| 2-3 tsp vanilla extract | 2 tsp | 1 Tbsp | 2 tsp | 2 tsp | 2 tsp | 2 tsp |
-| ¼ tsp almond extract (**optional**) | 1 tsp emulsion | ❌ | ❌ | ❌ | 2 tsp emulsion | ❌ |
-| 1½ tsp baking powder | | | | | | | |
-| 2 large eggs | | | | | | | |
-| max 2 cups ***extras*** | 1 C imperials | 150g apr + 67g cryst | 130g bits | 140g bits | 131g sweet bits | 150g bits | 130g cryst |
-| 2 cups (240g) unbleached AP flour | | | | | | | |
-| coarse sparkling / pearl sugar (**optional**) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | pearl |
+* 6 tbsp (85g) butter
+* ⅔ cup (131g) granulated sugar
+* ½ tsp table/Kosher salt
+* 2 tsp vanilla extract
+* 1½ tsp baking powder
+* 2 large egg
+* max 140g ***extras***
+* 2 cups (240g) unbleached AP flour
 
 # Procedure
 1. Preheat oven to 350°F. Lightly grease or line with parchment one large (18" x 13") baking sheet
@@ -34,3 +30,19 @@ This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurba
 # Selected quotes
 
 > Add up to 2 cups nuts, dried fruit (dried, not fresh), or chips to the dough, along with the flour. Adjust the spice to suit the add-in, if desired; e.g., add 1 teaspoon cinnamon with 1 cup chopped dried apple and 1 cup diced pecans. Or substitute hazelnut, butter-rum, or your favorite flavor for the vanilla. A classic Italian anise biscotti is made with 1/2 teaspoon anise extract (or 1/8 to 1/4 teaspoon anise oil, to taste), and 1 tablespoon fennel seeds.
+
+# Variation ingredients
+These are variations I've made in the past, and how I slightly changed the recipe.
+
+| Original | Cinnamon v1 |  Apricot & Ginger | Cherry | Blueberry | Cinnamon v2 | Raspberry | Ginger |
+| -------- | ----------- | ----------------- | ------ | --------- | ----------- | --------- | ------ |
+| 6 tbsp (85g) butter | | | | | | 80g | |
+| ⅔ cup (131g) granulated sugar | | | | | | | |
+| ½ tsp table/Kosher salt | | | | | | | |
+| 2-3 tsp vanilla extract | 2 tsp | 1 Tbsp | 2 tsp | 2 tsp | 2 tsp | 2 tsp |
+| ¼ tsp almond extract (**optional**) | 1 tsp emulsion | ❌ | ❌ | ❌ | 2 tsp emulsion | ❌ |
+| 1½ tsp baking powder | | | | | | | |
+| 2 large eggs | | | | | | | |
+| max 2 cups ***extras*** | 1 C imperials | 150g apr + 67g cryst | 130g bits | 140g bits | 131g sweet bits | 150g bits | 130g cryst |
+| 2 cups (240g) unbleached AP flour | | | | | | | |
+| coarse sparkling / pearl sugar (**optional**) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | pearl |
