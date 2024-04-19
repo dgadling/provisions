@@ -1,7 +1,5 @@
 # American-style vanilla biscotti
 
-This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurbaking.com/recipes/american-style-vanilla-biscotti-recipe)
-
 # Ingredients
 * 6 tbsp (85g) butter
 * ⅔ cup (131g) granulated sugar
@@ -27,7 +25,9 @@ This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurba
 12. Set the biscotti on edge on the baking sheet. Return to oven and bake 25-30 minutes, until they feel very dry and are turning golden. They'll firm up more more as they cool.
 13. Remove from oven and let them cool on a rack. Store airtight at room temp for _weeks_
 
-# Selected quotes
+# Selected quotes / Notes
+
+This is [King Arthur's American-Style Vanilla Biscotti](https://www.kingarthurbaking.com/recipes/american-style-vanilla-biscotti-recipe)
 
 > Add up to 2 cups nuts, dried fruit (dried, not fresh), or chips to the dough, along with the flour. Adjust the spice to suit the add-in, if desired; e.g., add 1 teaspoon cinnamon with 1 cup chopped dried apple and 1 cup diced pecans. Or substitute hazelnut, butter-rum, or your favorite flavor for the vanilla. A classic Italian anise biscotti is made with 1/2 teaspoon anise extract (or 1/8 to 1/4 teaspoon anise oil, to taste), and 1 tablespoon fennel seeds.
 
