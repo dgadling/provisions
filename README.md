@@ -23,6 +23,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Jalapeno Cornbread](recipes/jalapeno-cornbread.md) is **also** from a Marlboro cookbook ( :milk_glass: :hot_pepper: :bread: )
 - [Jambalaya](recipes/jambalaya.md) is an old family recipe brought online ( :pig: )
 - [Jiffy corn casserole](recipes/jiffy-corn-casserole.md) made from cans but is comforting for many ( :milk_glass: )
+- [Madeleine](recipes/madeleines.md) is a _troublingly_ simple recipe for fun little cakes ( :milk_glass: :bread: )
 - [Marshmallows](recipes/marshmallows.md) is a very straightforward recipe for gelatin containing marshmallows of whatever flavor you like!
 - [Pancakes](recipes/pancakes.md) is a less Swedish pancake recipe ( :milk_glass: :egg: :bread: )
 - [Peppermint Biscotti](recipes/peppermint-biscotti.md) is exactly what you'd expect ( :milk_glass: :egg: :bread: )
