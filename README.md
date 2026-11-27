@@ -7,6 +7,7 @@ Just a list of recipes and things that's open to pull requests and has a history
 - [Biscotti](recipes/biscotti.md) is a base recipe with notes about where to add things ( :milk_glass: :egg: :bread: )
 - [Biscuits & Gravy](recipes/biscuits-and-gravy.md) is Kenji's 5 ingredient Biscuts & Gravy
 - [Brunsviger](recipes/brunsviger.md) is a sweet cakey/bready/cozy treat ( :milk_glass: :egg: :bread: )
+- [Chewy choco chip cookies](recipes/crispy-chewy-choco-cookies.md) are flat & thin, crispy on the edges and chewy in the middle ( :milk_glass: :egg: :bread: )
 - [Lori Taylor's Chocolate Chippers](recipes/chippers.md) the richest cookies ever ( :milk_glass: :egg: :bread: :peanuts: )
 - [Chicken Enchiladas](recipes/chicken-enchiladas.md) are a little bit of work but come out great ( :chicken: :bread: )
 - [Chocolate Date Cookies](recipes/chocodate.md) yum ( :milk_glass: :egg: :bread: )
